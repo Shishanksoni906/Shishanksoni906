@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://twitter.com/shishanksoni906" target="blank"><img src="https://img.shields.io/twitter/follow/shishanksoni906?logo=twitter&style=for-the-badge" alt="shishanksoni906" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shishank906" target="blank"><img src="https://img.shields.io/twitter/follow/shishanksoni906?logo=twitter&style=for-the-badge" alt="shishanks906" /></a> </p>
 
 - 🔭 I’m currently working on Projects **Making a E-commerce website**
 
